@@ -169,7 +169,7 @@
         <div class="copyright">
             &copy; 2019 - {{ date("Y") }} All rights reserved. <br>
             <strong> Developed &amp; <i class="far fa-heart"></i> by </strong>
-                        <a href="https://www.youtube.com/channel/UCwbVAlvrsD2Tpx93bleNbOA" target="_blank">Programming kit</a>.
+                        <a href="https://www.facebook.com/chiquyen.trinh" target="_blank">Trinh Chi Quyen</a>.
         </div>
         <div class="version">
             <b>Version: </b> 1.0.5
